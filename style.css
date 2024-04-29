@@ -70,7 +70,7 @@ h2 {
   -o-border-radius: 50%;
 }
 .container header .progress .progress-steps.active {
-  box-shadow: 2px 2px 10px #00aaff, -2px -2px 10px #00aaff inset;
+  //box-shadow: 2px 2px 10px #00aaff, -2px -2px 10px #00aaff inset;
   background-color: #00aaff;
 }
 .container form {
